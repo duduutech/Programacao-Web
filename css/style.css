@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Datatype:wght@100..900&family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Noto+Sans+JP:wght@100..900&display=swap');
+
+body{
+
+
+    height: 100vh;
+    background-color: skyblue;
+    
+    
+}
+
+
+
+h1, p{
+    font-family: 'Times New Roman', Times, serif
+}
+
+.fora{
+    font-size: 1.5em;
+}
+
+.nova{
+    font-family: "Iosevka Charon Mono", monospace;
+    font-size: 1.5em;
+}
+
+span{
+    color: red;
+    font-weight:bold;
+}
+
+div{
+    font-size: 22px;
+    background-color: aquamarine;
+    overflow-y: scroll; 
+    height: 250px; 
+    /* background-image;: linear-gradiente(rgba(255,255,255,0,5)), url(../aula-18-03-2026-css/img/baixados\ \(3\).jpeg) */
+    background-image: url(../img/baixados\ \(4\).jpeg);
+    background-repeat: no-repeat;
+    /* background-position: 300px 150px; */
+    background-attachment: local;  /*fixed / scroll*/
+    background-size: 200px;
+}
