@@ -1,6 +1,6 @@
 🌐 Repositório de Estudos em Programação Web – 1º Semestre
 
-Este repositório reúne exercícios, projetos e anotações desenvolvidos durante o primeiro semestre de estudos em programação web. O foco está na construção de páginas e aplicações web, utilizando as principais tecnologias do desenvolvimento front-end.
+Este repositório reúne exercícios e anotações desenvolvidos durante o primeiro semestre de estudos em programação web. O foco está na construção de páginas e aplicações web, utilizando as principais tecnologias do desenvolvimento front-end.
 
 🎯 Conteúdo
 
